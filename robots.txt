@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-a00d3a1afe.ykkokuw.cn/sitemap.xml
